@@ -1,0 +1,38 @@
+
+.heading
+{
+font-size: 33px;
+width: 80%;
+margin: 0px;
+background-color: rgb(0, 197, 227);
+color: rgb(255, 0, 106);
+border-radius: 15px;
+}
+
+#status
+{
+font-size: 29px;
+background-color: tan;
+color: teal;
+width: 50%;
+border-radius: 20px;
+}
+body{
+    background-size: cover;
+    background-position: center;
+}
+canvas{
+    background-color: aliceblue;
+    border: 3px double dodgerblue;
+    margin: 10px;
+    border-radius: 19px;
+}
+.tags{
+    background-color: indianred;
+    font-size: 30px;
+    width: 100px;
+    font-family: Georgia, 'Times New Roman', Times, serif;
+    color: rgb(0, 63, 127);
+    border-radius: 10px;
+    box-shadow: 3px 2px 3px rgb(99, 0, 169);
+}
